@@ -4,20 +4,28 @@
 
 🔍 Busco oportunidades de estágio e projetos práticos em desenvolvimento web, mobile e automação de sistemas.
 
-💻 Tecnologias que estou estudando:
+---
 
-- HTML, CSS, JavaScript
-- Git e GitHub
-- SQL / Bancos de dados
-- Cloud Computing (básico)
+## 💻 Tecnologias que estudo
 
-🚀 Projetos:
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- SQL / Bancos de dados  
+- Cloud Computing (básico)  
 
-- [Portfólio Web](https://ary-nicoleli.github.io/portfolio-web/) – Site pessoal com meus projetos acadêmicos e informações de contato.
+*(Python será adicionado em breve com projetos próprios)*
 
-📫 Contato:
+---
 
-- [LinkedIn](https://www.linkedin.com/in/ary-nicoleli)
+## 🚀 Projetos
+
+- **[Portfólio Web](https://ary-nicoleli.github.io/portfolio-web/)** – Site pessoal com meus projetos acadêmicos e informações de contato.
+
+---
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/ary-nicoleli)  
 - [GitHub](https://github.com/Ary-Nicoleli)
 
 ---
