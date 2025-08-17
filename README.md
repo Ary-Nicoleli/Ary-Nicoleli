@@ -11,7 +11,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="Cloud" src="https://img.shields.io/badge/Cloud-0288D1?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
@@ -22,12 +22,14 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="200px">
-        <strong>Portfólio Web</strong><br>
-        Site pessoal com meus projetos acadêmicos e informações de contato.<br>
-        <a href="https://ary-nicoleli.github.io/portfolio-web/" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Projeto-1e40af?style=for-the-badge&logo=web&logoColor=white" alt="Portfólio Web">
-        </a>
+      <td align="center" width="220px" style="padding: 10px;">
+        <div style="border: 2px solid #1e40af; border-radius: 12px; padding: 15px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 25px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.05)'">
+          <strong>Portfólio Web</strong><br>
+          Site pessoal com meus projetos acadêmicos e informações de contato.<br>
+          <a href="https://ary-nicoleli.github.io/portfolio-web/" target="_blank">
+            <img src="https://img.shields.io/badge/Ver_Projeto-1e40af?style=for-the-badge&logo=web&logoColor=white" alt="Portfólio Web">
+          </a>
+        </div>
       </td>
     </tr>
   </table>
