@@ -1,13 +1,10 @@
-# Olá, eu sou Ary Nicoleli 👋
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Desenvolvedor de Software  
-
-🔍 Busco oportunidades de estágio e projetos práticos em desenvolvimento web, mobile e automação de sistemas.
+<h1 align="center">Olá, eu sou Ary Nicoleli 👋</h1>
+<p align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Desenvolvedor de Software</p>
+<p align="center">🔍 Busco oportunidades de estágio e projetos práticos em desenvolvimento web, mobile e automação de sistemas.</p>
 
 ---
 
-## 💻 Tecnologias
-
+<h2 align="center">💻 Tecnologias</h2>
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -21,26 +18,24 @@
 
 ---
 
-## 🚀 Projetos
-
-<p align="center">
-  <a href="https://ary-nicoleli.github.io/portfolio-web/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-Web-1e40af?style=for-the-badge&logo=web&logoColor=white" alt="Portfólio Web">
-  </a>
-</p>
-
+<h2 align="center">🚀 Projetos</h2>
 <div align="center">
-
-**Portfólio Web**  
-Site pessoal com meus projetos acadêmicos e informações de contato.  
-Link: [Ver projeto](https://ary-nicoleli.github.io/portfolio-web/)
-
+  <table>
+    <tr>
+      <td align="center" width="200px">
+        <strong>Portfólio Web</strong><br>
+        Site pessoal com meus projetos acadêmicos e informações de contato.<br>
+        <a href="https://ary-nicoleli.github.io/portfolio-web/" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Projeto-1e40af?style=for-the-badge&logo=web&logoColor=white" alt="Portfólio Web">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 📫 Contato
-
+<h2 align="center">📫 Contato</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/ary-nicoleli" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -50,4 +45,4 @@ Link: [Ver projeto](https://ary-nicoleli.github.io/portfolio-web/)
   </a>
 </p>
 
-✨ Bem-vindo ao meu perfil!
+<p align="center">✨ Bem-vindo ao meu perfil!</p>
