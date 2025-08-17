@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Desenvolvedor de Software
 
-🔍 Estou aprendendo desenvolvimento web, mobile e automação de sistemas.
+🔍 Aprendendo desenvolvimento web, mobile e automação de sistemas.
 
 💻 Tecnologias que estou estudando:
 - HTML, CSS, JavaScript
@@ -11,7 +11,7 @@
 - Cloud computing (básico)
 
 🚀 Projetos:
-- [Portfólio Web](link-do-seu-site) – Site pessoal com meus projetos acadêmicos e informações de contato.
+- **Portfólio Web** – Site pessoal com meus projetos acadêmicos e informações de contato.
 
 📫 Contato:
 - [LinkedIn](https://www.linkedin.com/in/ary-nicoleli/)
