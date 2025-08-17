@@ -6,25 +6,53 @@
 
 ---
 
-## 💻 Tecnologias que estudo
+## 💻 Tecnologias
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-00ADEF?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue" /> <!-- em breve -->
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+
+<div style="background: #f3f4f6; padding: 8px 16px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+HTML
+</div>
+
+<div style="background: #f3f4f6; padding: 8px 16px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+CSS
+</div>
+
+<div style="background: #f3f4f6; padding: 8px 16px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+JavaScript
+</div>
+
+<div style="background: #f3f4f6; padding: 8px 16px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+Git & GitHub
+</div>
+
+<div style="background: #f3f4f6; padding: 8px 16px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+SQL / Bancos de dados
+</div>
+
+<div style="background: #f3f4f6; padding: 8px 16px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+Cloud Computing
+</div>
+
+<div style="background: #f3f4f6; padding: 8px 16px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+Python (em breve)
+</div>
+
 </div>
 
 ---
 
 ## 🚀 Projetos
 
-- **[Portfólio Web](https://ary-nicoleli.github.io/portfolio-web/)**  
-  Site pessoal com meus projetos acadêmicos e informações de contato.
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+<div style="background: #ffffff; padding: 16px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); max-width: 300px;">
+<h4>Portfólio Web</h4>
+<p>Site pessoal com meus projetos acadêmicos e informações de contato.</p>
+<a href="https://ary-nicoleli.github.io/portfolio-web/" target="_blank" style="text-decoration:none; color:#1e40af; font-weight:500;">Ver projeto</a>
+</div>
+
+</div>
 
 ---
 
