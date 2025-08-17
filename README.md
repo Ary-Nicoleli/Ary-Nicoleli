@@ -29,15 +29,25 @@
   </a>
 </p>
 
-**Portfólio Web** – Site pessoal com meus projetos acadêmicos e informações de contato.
+<div align="center">
+
+**Portfólio Web**  
+Site pessoal com meus projetos acadêmicos e informações de contato.  
+Link: [Ver projeto](https://ary-nicoleli.github.io/portfolio-web/)
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/ary-nicoleli)  
-- [GitHub](https://github.com/Ary-Nicoleli)
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/ary-nicoleli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Ary-Nicoleli" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ✨ Bem-vindo ao meu perfil!
