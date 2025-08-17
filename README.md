@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Ary Nicoleli 👋
 
-<!--
-**Ary-Nicoleli/Ary-Nicoleli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Desenvolvedor de Software
 
-Here are some ideas to get you started:
+🔍 Estou aprendendo desenvolvimento web, mobile e automação de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tecnologias que estou estudando:
+- HTML, CSS, JavaScript
+- Git e GitHub
+- SQL / Bancos de dados
+- Cloud computing (básico)
+
+🚀 Projetos:
+- [Portfólio Web](link-do-seu-site) – Site pessoal com meus projetos acadêmicos e informações de contato.
+
+📫 Contato:
+- [LinkedIn](https://www.linkedin.com/in/ary-nicoleli/)
+- [GitHub](https://github.com/Ary-Nicoleli)
