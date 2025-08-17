@@ -19,19 +19,19 @@
 ---
 
 <h2 align="center">🚀 Projetos</h2>
+
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="220px" style="padding: 10px;">
-        <div style="border: 2px solid #1e40af; border-radius: 12px; padding: 15px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 25px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.05)'">
-          <strong>Portfólio Web</strong><br>
-          Site pessoal com meus projetos acadêmicos e informações de contato.<br>
-          <a href="https://ary-nicoleli.github.io/portfolio-web/" target="_blank">
-            <img src="https://img.shields.io/badge/Ver_Projeto-1e40af?style=for-the-badge&logo=web&logoColor=white" alt="Portfólio Web">
-          </a>
-        </div>
+      <td align="center" style="padding: 10px;">
+        <a href="https://ary-nicoleli.github.io/portfolio-web/" target="_blank">
+          <img src="https://ary-nicoleli.github.io/portfolio-web/assets/thumbnail.png" alt="Portfólio Web" width="200" style="border-radius:12px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 25px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.05)'">
+        </a>
+        <p><strong>Portfólio Web</strong></p>
+        <p>Site pessoal com meus projetos acadêmicos e informações de contato.</p>
       </td>
     </tr>
+    <!-- Adicione novos projetos aqui no mesmo padrão -->
   </table>
 </div>
 
