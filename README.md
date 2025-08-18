@@ -28,7 +28,7 @@ Site pessoal com meus projetos acadêmicos e informações de contato.
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/ary-nicoleli)  
+- [LinkedIn](https://www.linkedin.com/in/ary-nicoleli2)  
 - [GitHub](https://github.com/Ary-Nicoleli)  
 
 ---
